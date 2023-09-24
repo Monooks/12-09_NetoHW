@@ -88,6 +88,8 @@ select * from test_table;
 
 ![Скриншот-1](https://github.com/Monooks/12-09_NetoHW/blob/main/img/12.09_1.png)
 ![Скриншот-2](https://github.com/Monooks/12-09_NetoHW/blob/main/img/12.09_2.png)
+![Скриншот-3](https://github.com/Monooks/12-09_NetoHW/blob/main/img/12.09_3.png)
+![Скриншот-4](https://github.com/Monooks/12-09_NetoHW/blob/main/img/12.09_4.png)
 
 ---
 
